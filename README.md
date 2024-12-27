@@ -1,7 +1,3 @@
-# Jeevan Parmar
-
-# j29parma
-
 This document explains the sequence and usage of the provided Python programs to process documents, index them, and retrieve relevant results using different methods.
 
 ---
